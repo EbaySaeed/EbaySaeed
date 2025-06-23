@@ -1,28 +1,28 @@
-## Hi, I’m @Ebay Saeed
+## Hi, I’m @Salesforce Saeed
 
-📱 Mobile App Developer | eCommerce App Specialist | Android & iOS Development
+☁️ Salesforce Developer & Consultant | CRM Specialist | Apex, LWC, and Automation Expert
 
 ## 👀 I’m interested in
 
-🔹 Native Android (Java/Kotlin) & iOS (Swift)  
-🔹 eCommerce App Development (eBay Integrations, Payment Gateways)  
-🔹 Cross-platform Development with Flutter & React Native  
-🔹 Backend Integration (Firebase, REST APIs)  
-🔹 App Store Optimization (ASO) and Analytics  
+🔹 Salesforce CRM (Sales, Service, and Experience Cloud)
+🔹 Apex Development & Lightning Web Components (LWC)
+🔹 Salesforce Flows, Process Builder, and Automation Tools
+🔹 Integrations (REST/SOAP APIs, External Systems)
+🔹 Data Migration (Data Loader, Dataloader.io, Workbench)
 
 ## 🌱 I’m currently learning
 
-📌 Advanced State Management (Bloc, Provider, Redux)  
-📌 In-app Purchases & Subscription Models  
-📌 Secure Authentication (OAuth2, JWT)  
-📌 Clean Architecture & Modular App Design  
+📌 Salesforce CPQ & Field Service Lightning (FSL)
+📌 DevOps for Salesforce (Gearset, Copado, SFDX)
+📌 Advanced LWC Patterns and Reusability
+📌 AI + Salesforce (Einstein GPT, Predictive Scoring)
 
 ## 💞️ I’m looking to collaborate on
 
-✅ Scalable mobile commerce solutions  
-✅ Feature-rich mobile apps with real-time data sync  
-✅ UI/UX enhanced shopping and bidding apps  
+✅ End-to-end Salesforce implementation projects
+✅ Custom CRM solutions with automation and reporting
+✅ Scalable Salesforce integrations with third-party apps
 
 ## 📫 Contact
 
-📧 Email: saeedebay0@gmail.com
+📧 Email: [saeedebay0@gmail.com](mailto:saeedebay0@gmail.com)
