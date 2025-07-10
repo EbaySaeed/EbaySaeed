@@ -10,7 +10,6 @@
 🔹 REST APIs & Firebase Integration
 🔹 App Store Deployment & Optimization
 
----
 
 **🌱 I’m currently learning:**
 📌 Native iOS with SwiftUI & Combine
@@ -18,14 +17,12 @@
 📌 Advanced State Management (Bloc, Provider, Redux)
 📌 AI + Mobile (TensorFlow Lite, ML Kit)
 
----
 
 **🤝 Let’s collaborate on:**
 ✅ End-to-end Mobile App Development
 ✅ MVPs for Startups
 ✅ Scalable, Secure, and Offline-first Apps
 
----
 
 **📫 Contact:**
 📧 Email: [saeedebay0@gmail.com](mailto:saeedebay0@gmail.com)
