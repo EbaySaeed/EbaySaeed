@@ -1,28 +1,31 @@
-## Hi, I’m @Salesforce Saeed
+**👋 Hi, I’m @Ebay Saeed**
+**📱 Lead Mobile Application Developer | iOS | Android | Cross-Platform Expert**
 
-☁️ Salesforce Solution Architect | Lead Salesforce Developer
+---
 
-## 👀 I’m interested in
+**👀 I’m interested in:**
+🔹 Cross-platform Development (Flutter, React Native)
+🔹 Android (Kotlin, Java) & iOS (Swift)
+🔹 UI/UX Design & Responsive Mobile Interfaces
+🔹 REST APIs & Firebase Integration
+🔹 App Store Deployment & Optimization
 
-🔹 Salesforce CRM (Sales, Service, and Experience Cloud)
-🔹 Apex Development & Lightning Web Components (LWC)
-🔹 Salesforce Flows, Process Builder, and Automation Tools
-🔹 Integrations (REST/SOAP APIs, External Systems)
-🔹 Data Migration (Data Loader, Dataloader.io, Workbench)
+---
 
-## 🌱 I’m currently learning
+**🌱 I’m currently learning:**
+📌 Native iOS with SwiftUI & Combine
+📌 Mobile DevOps (CI/CD with Fastlane & GitHub Actions)
+📌 Advanced State Management (Bloc, Provider, Redux)
+📌 AI + Mobile (TensorFlow Lite, ML Kit)
 
-📌 Salesforce CPQ & Field Service Lightning (FSL)
-📌 DevOps for Salesforce (Gearset, Copado, SFDX)
-📌 Advanced LWC Patterns and Reusability
-📌 AI + Salesforce (Einstein GPT, Predictive Scoring)
+---
 
-## 💞️ I’m looking to collaborate on
+**🤝 Let’s collaborate on:**
+✅ End-to-end Mobile App Development
+✅ MVPs for Startups
+✅ Scalable, Secure, and Offline-first Apps
 
-✅ End-to-end Salesforce implementation projects
-✅ Custom CRM solutions with automation and reporting
-✅ Scalable Salesforce integrations with third-party apps
+---
 
-## 📫 Contact
-
+**📫 Contact:**
 📧 Email: [saeedebay0@gmail.com](mailto:saeedebay0@gmail.com)
